@@ -1,2 +1,2 @@
 let моня = "sdafjkhafh";
-console.log("hello word");
+console.log("11111111");
